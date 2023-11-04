@@ -44,6 +44,12 @@ button {
     cursor: pointer;
     font-size: 18px;
 }
+input
+{
+    height: 100px;
+}
+
+
 
 /* Hover effect for the button */
 button:hover {

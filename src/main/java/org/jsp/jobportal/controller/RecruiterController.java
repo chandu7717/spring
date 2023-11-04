@@ -67,4 +67,9 @@ public class RecruiterController {
 	{
 		return recruiterService.resetPassword(password,id,otp,map);
 	}
+	@GetMapping("/addjob")
+	public String addJob()
+	{
+		return "AddJob";
+	}
 }

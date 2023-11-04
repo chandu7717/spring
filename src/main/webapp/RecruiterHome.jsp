@@ -9,7 +9,7 @@
 </head>
 <body>
 <h1>Recruiter Home</h1>
-<button>Add Job</button>
+<a href="/recruiter/addjob"><button>Add Job</button></a>
 <button>See Applications Job</button>
 <button>Logout</button>
 </body>
